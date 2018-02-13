@@ -1,0 +1,16 @@
+img{
+    max-width: 100%;
+}
+.carousel img{
+    width: 100%;
+}
+section .row article{
+    height: 400px;
+    background-color: yellow;
+}
+section .row article:first-child{
+    background-color: red;
+}
+section .row article:last-child{
+    background-color: blue;
+}
